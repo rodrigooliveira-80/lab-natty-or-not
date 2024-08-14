@@ -1,51 +1,40 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Imagens geradas de fisiculturistas por IA Generativa 
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Geração de imagens por IA generativa de fisiculturista no parque e fisiculturista programador.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Utilizado Microsoft Copilot
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Os prompts utilizados foram:
+1 - Crie uma imagem realista de um programador fisiculturista
+2 - Poderia deixar o programador mais foto realista?
+3 - Poderia gerar uma foto realista de um fisiculturista no parque?
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Imagens geradas no prompt número 1:
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+![image](https://github.com/user-attachments/assets/2594216e-eea1-4dea-a5ee-e8d028187175)
+![image](https://github.com/user-attachments/assets/99bcca02-a0dd-4cb1-afe7-f8a45585f445)
+![image](https://github.com/user-attachments/assets/a3f5d282-49ec-479c-babf-b33b9107bd07)
+![image](https://github.com/user-attachments/assets/48dd0de0-66f8-45cf-aa5d-fb86634ca366)
 
-### Exemplos e Insigths
+Imagens geradas no prompt número 2:
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+![image](https://github.com/user-attachments/assets/a39b0489-1e8e-45b4-bdec-e48989d95fb8)
+![image](https://github.com/user-attachments/assets/eb9c495f-9274-4aef-95c0-f54564de1311)
+![image](https://github.com/user-attachments/assets/09a0c028-dfbc-44d8-9a56-67499eccaf2b)
+![image](https://github.com/user-attachments/assets/6e8f3959-620f-417d-ae0a-9263aff83b6a)
 
-## Links Interessantes
+Imagens geradas no prompt número 3:
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+![image](https://github.com/user-attachments/assets/d0a0ad66-de18-4bd2-957f-3f74c34c99c6)
+![image](https://github.com/user-attachments/assets/378a65ab-ce29-4f9b-ac2d-3a8d3a1a6040)
+![image](https://github.com/user-attachments/assets/03068c2a-608d-4d4a-bfae-4d7ff20e6c09)
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+
+## 💭 Reflexão
+As primeiras imagens são facilmente identificadas como fake natty. As últimas imagens apresentaram um fisiculturista mais realista, mas podemos perceber distorções no corpo das pessoas no parque.
+
+
